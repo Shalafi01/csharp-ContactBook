@@ -28,7 +28,7 @@ It allows you to **add**, **view**, **edit**, and **export** your contacts in JS
    - Exit  
 4. When adding or editing contacts, input validation will prompt you for correct data formats.
 
-![Contacts App Screenshot](images/screenshot_1.png)
+![Contacts App Screenshot](img/screenshot_1.png)
 
 ## Requirements
 - .NET runtime (compatible with .NET 6 or later)
@@ -46,8 +46,8 @@ It allows you to **add**, **view**, **edit**, and **export** your contacts in JS
 - Contacts without a name cannot be added.
 
 ## Screenshots
-![Contacts App Screenshot](images/screenshot_2.png)
+![Contacts App Screenshot](img/screenshot_2.png)
 
-![Contacts App Screenshot](images/screenshot_3.png)
+![Contacts App Screenshot](img/screenshot_3.png)
 
-![Contacts App Screenshot](images/screenshot_4.png)
+![Contacts App Screenshot](img/screenshot_4.png)
