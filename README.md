@@ -30,6 +30,20 @@ It allows you to **add**, **view**, **edit**, and **export** your contacts in JS
 
 ![Contacts App Screenshot](img/screenshot_1.png)
 
+## C# Concepts and Features
+- String manipulation  
+- List<T> collection  
+- Lambda expressions  
+- LINQ methods
+- Regex for input validation  
+- Date parsing and formatting  
+- JSON serialization and deserialization  
+- File read/write operations  
+- Exception handling
+- Use of delegates
+- Dynamic menu rendering  
+- Custom sorting with comparator lambda
+  
 ## Requirements
 - .NET runtime (compatible with .NET 6 or later)
 - Console environment for input/output
