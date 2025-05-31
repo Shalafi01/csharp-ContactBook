@@ -71,6 +71,6 @@ It allows you to **add**, **view**, **edit**, and **export** your contacts in JS
 ## Screenshots
 ![Contacts App Screenshot](img/screenshot_2.png)
 
-<img src="img/screenshot_3.jpg" alt="Contacts App Screenshot" style="width: 400px;"/>
+<img src="img/screenshot_3.png" alt="Contacts App Screenshot" style="width: 400px;"/>
 
-<img src="img/screenshot_4.jpg" alt="Contacts App Screenshot" style="width: 400px;"/>
+<img src="img/screenshot_4.png" alt="Contacts App Screenshot" style="width: 400px;"/>
