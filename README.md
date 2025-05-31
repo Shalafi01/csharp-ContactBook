@@ -69,8 +69,8 @@ It allows you to **add**, **view**, **edit**, and **export** your contacts in JS
 - Contacts without a name cannot be added.
 
 ## Screenshots
-![Contacts App Screenshot](img/screenshot_2.png)
+<img src="img/screenshot_2.png" alt="Contacts App Screenshot" style="width: 400px;"/>
 
-<img src="img/screenshot_3.png" alt="Contacts App Screenshot" style="width: 400px;"/>
+<img src="img/screenshot_3.png" alt="Contacts App Screenshot" style="width: 500px;"/>
 
 <img src="img/screenshot_4.png" alt="Contacts App Screenshot" style="width: 400px;"/>
