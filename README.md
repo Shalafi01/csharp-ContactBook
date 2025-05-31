@@ -35,9 +35,9 @@ It allows you to **add**, **view**, **edit**, and **export** your contacts in JS
    - Edit contacts  
    - Open JSON (view raw JSON data)  
    - Exit  
-4. When adding or editing contacts, input validation will prompt you for correct data formats.
+4. When adding or editing contacts, input validation will prompt you for the correct data formats.
 
-![Contacts App Screenshot](img/screenshot_1.png)
+<img src="img/screenshot_1.png" alt="Contacts App Screenshot" style="width: 400px;"/>
 
 ## C# Concepts and Features
 - String manipulation  
