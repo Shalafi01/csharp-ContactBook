@@ -2,6 +2,15 @@
 A simple console-based Contacts application written in C#.  
 It allows you to **add**, **view**, **edit**, and **export** your contacts in JSON format.
 
+## Table of Contents
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [C# Concepts and Features](#c-concepts-and-features)
+- [Requirements](#requirements)
+- [Project Structure](#project-structure)
+- [Notes](#notes)
+- [Screenshots](#screenshots)
+
 ## Features
 - **Add contact** with fields:  
   - Name (mandatory)  
